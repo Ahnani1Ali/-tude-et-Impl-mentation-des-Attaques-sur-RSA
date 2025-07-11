@@ -2,7 +2,7 @@
 
 Ce projet présente une étude approfondie et des implémentations en Python de plusieurs attaques connues contre le système cryptographique RSA. Il s’inscrit dans le cadre du cours **Cryptanalyse et Sécurité des Systèmes** (ISMIN 1A - EI24).
 
-## 📄 Objectif du projet
+## Objectif du projet
 
 L’objectif est double :
 1. **Comprendre les fondements mathématiques** du chiffrement RSA, des réseaux euclidiens et des approximations rationnelles.
